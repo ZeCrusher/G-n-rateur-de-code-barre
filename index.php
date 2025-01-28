@@ -12,11 +12,11 @@
 		<link href="css/animate.min.css" rel="stylesheet">
 		<link href="css/font-awesome.min.css" rel="stylesheet">
 		<link href="css/form.css" rel="stylesheet">
-		<link href="css/calendar.css" rel="stylesheet">
+		<!-- <link href="css/calendar.css" rel="stylesheet"> -->
 		<link href="css/style.css" rel="stylesheet">
 		<link href="css/icons.css" rel="stylesheet">
 		<link href="css/generics.css" rel="stylesheet">
-		<link href="css/jquery.dataTables.css" rel="stylesheet">  
+		<!-- <link href="css/jquery.dataTables.css" rel="stylesheet">   -->
 	</head>
 
 	<body id="skin16" style="background-position: center;background-repeat: no-repeat;background-size: cover;">	
